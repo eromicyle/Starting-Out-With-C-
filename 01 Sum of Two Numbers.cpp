@@ -1,5 +1,5 @@
 /*Sum of Two Numbers
-Write a program that stores the integers 62 and 99 in variables, and stores the sum of
+Q. Write a program that stores the integers 62 and 99 in variables, and stores the sum of
 these two in a variable named total.*/
 
 #include <iostream>
